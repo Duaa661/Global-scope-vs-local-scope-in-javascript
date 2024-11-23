@@ -1,0 +1,1 @@
+# Global-scope-vs-local-scope-in-javascript
